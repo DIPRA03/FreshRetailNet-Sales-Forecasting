@@ -15,4 +15,14 @@ A **Streamlit dashboard** provides interactive sales trend exploration, demand f
 
 ---
 
-## 📂 Project Structure  
+## 📂 Project Structure
+
+FreshRetailNet-Sales-Forecasting/
+├── app.py                 # Main Streamlit dashboard
+├── utils/                 # Helper functions for data processing & forecasting
+├── data/                  # Folder to store datasets (CSV/Excel files)
+├── models/                # Trained forecasting models (optional)
+├── notebooks/             # Jupyter notebooks for exploration & experiments
+├── requirements.txt       # Python dependencies
+├── .gitignore             # Files/folders to ignore in Git
+└── README.md              # Project documentation
