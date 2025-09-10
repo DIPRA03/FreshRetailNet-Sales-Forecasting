@@ -1,0 +1,31 @@
+# Python cache & bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# MacOS system files
+.DS_Store
+
+# Logs & databases
+*.log
+*.db
+*.sqlite3
+
+# Output files
+*.xlsx
+*.csv
+*.parquet
+
+# Streamlit cache
+.streamlit/
+
+# VS Code settings
+.vscode/
